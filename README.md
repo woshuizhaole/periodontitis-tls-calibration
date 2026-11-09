@@ -12,7 +12,7 @@ The analysis uses public bulk transcriptomes GSE16134, GSE10334, GSE173078 and G
 - `code/narrative_B/` — composition, bulk and spatial analyses used in the manuscript.
 - `code/diagnostics/` — diagnostic and corrected-design analyses.
 
-Scripts assume the project root layout described in the manuscript (or the path given by `PROJECT_ROOT`). Figure-generating and manuscript-assembly scripts are intentionally not included.
+Scripts assume the project root layout described in the manuscript (or the path given by `PROJECT_ROOT`). 
 
 ## Environment
 
